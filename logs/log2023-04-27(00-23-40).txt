@@ -1,0 +1,9 @@
+2023-04-27 00:23:41.393 INF Debug: Программа запущена
+2023-04-27 00:23:46.283 INF Debug: Ввод инструкции Начало технологии
+2023-04-27 00:23:47.749 INF Debug: Ввод инструкции Сезон одежды
+2023-04-27 00:23:49.028 INF Info: "Инструкция - Сезон одежды Демисезон"
+2023-04-27 00:23:50.604 INF Debug: Ввод инструкции Выбрать основной цвет изделия
+2023-04-27 00:23:52.280 WRN default: setGeometry: Unable to set geometry 120x30+421+168 (frame: 136x69+413+137) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+168 (frame: 538x432+413+137) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-27 00:23:53.965 INF Info: "Инструкция - Основной цвет изделия #13ffe4"
+2023-04-27 00:24:10.832 INF Debug: Ввод инструкции Пуск в производство
+2023-04-27 00:24:12.313 INF Debug: Программа прекратила работу

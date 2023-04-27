@@ -1,0 +1,22 @@
+2023-04-26 18:03:16.252 INF Debug: Программа запущена
+2023-04-26 18:03:22.154 INF Debug: Ввод инструкции Начало технологии
+2023-04-26 18:03:23.816 INF Debug: Ввод инструкции Сезон одежды
+2023-04-26 18:03:25.306 INF Info: "Инструкция - Сезон одежды Зима"
+2023-04-26 18:03:26.088 INF Debug: Ввод инструкции Вид одежды
+2023-04-26 18:03:27.209 INF Info: "Инструкция - Вид зимней одежды Перчатки"
+2023-04-26 18:03:27.928 INF Debug: Ввод инструкции Тип фасона вида одежды 
+2023-04-26 18:03:30.292 INF Info: "Инструкция - Тип фасона перчатокУкороченные"
+2023-04-26 18:03:34.336 INF Debug: Ввод инструкции Вид материала
+2023-04-26 18:03:35.688 INF Debug: Ввод инструкции Выбрать рисунок на изделии
+2023-04-26 18:03:36.584 INF Debug: Ввод инструкции Выбрать цвет рисунка
+2023-04-26 18:03:39.308 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-26 18:03:40.949 INF Info: "Инструкция - Цвет рисунка #a3a0ff"
+2023-04-26 18:03:44.456 INF Info: "Инструкция - Рисунок на изделии C:/Users/user/Documents/TailorCode/img/5.jpg"
+2023-04-26 18:03:46.571 INF Info: "Инструкция - Материал для перчатокАкрил"
+2023-04-26 18:03:48.552 INF Debug: Ввод инструкции Выбрать основной цвет изделия
+2023-04-26 18:03:49.705 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-26 18:03:51.675 INF Info: "Инструкция - Основной цвет изделия #e72eff"
+2023-04-26 18:03:57.381 INF Debug: Исполнение функции Выполнить
+2023-04-26 18:03:59.291 INF Info: "Выполнение совершено, файл с инструкциями  сохранён"
+2023-04-26 18:04:06.473 INF Debug: Ввод инструкции Количество производимых изделий
+2023-04-26 18:04:09.651 FTL default: ASSERT failure in QVector<T>::at: "index out of range", file C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtCore/qvector.h, line 424

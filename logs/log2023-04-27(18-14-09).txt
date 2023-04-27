@@ -1,0 +1,25 @@
+2023-04-27 18:14:09.626 INF Debug: Программа запущена
+2023-04-27 18:14:12.697 INF Debug: Ввод инструкции Начало технологии
+2023-04-27 18:14:16.263 INF Debug: Ввод инструкции Сезон одежды
+2023-04-27 18:14:21.336 INF Info: "Инструкция - Сезон одежды Зима"
+2023-04-27 18:14:22.711 INF Debug: Ввод инструкции Вид одежды 
+2023-04-27 18:14:24.806 INF Info: "Инструкция - Вид зимней одежды Шапка"
+2023-04-27 18:14:26.463 INF Debug: Ввод инструкции Вид материала 
+2023-04-27 18:14:28.448 INF Info: "Инструкция - Материал для шапокАкрил"
+2023-04-27 18:14:30.247 INF Debug: Ввод инструкции Выбрать основной цвет изделия
+2023-04-27 18:14:30.807 INF Debug: Ввод инструкции Выбрать рисунок на изделии
+2023-04-27 18:14:31.494 WRN default: setGeometry: Unable to set geometry 120x30+421+168 (frame: 136x69+413+137) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+168 (frame: 538x432+413+137) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-27 18:14:33.379 INF Info: "Инструкция - Основной цвет изделия #29b4ff"
+2023-04-27 18:14:35.239 INF Debug: Ввод инструкции Тип фасона вида одежды 
+2023-04-27 18:14:42.416 INF Info: "Инструкция - Рисунок на изделии C:/Users/user/Documents/TailorCode/img/5.jpg"
+2023-04-27 18:14:48.174 INF Debug: Ввод инструкции Выбрать цвет рисунка
+2023-04-27 18:14:50.850 WRN default: setGeometry: Unable to set geometry 120x30+421+168 (frame: 136x69+413+137) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+168 (frame: 538x432+413+137) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-27 18:14:52.578 INF Info: "Инструкция - Цвет рисунка #ff0004"
+2023-04-27 18:14:56.887 INF Debug: Ввод инструкции Количество производимых изделий
+2023-04-27 18:14:59.475 INF Info: "Количество производимых изделий 18"
+2023-04-27 18:14:59.666 INF Info: "Количество производимых изделий 188"
+2023-04-27 18:16:00.226 CRT Critical: Сообщение Тип фасона не выбран
+2023-04-27 18:16:03.715 WRN default: setGeometry: Unable to set geometry 120x30+421+168 (frame: 136x69+413+137) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+168 (frame: 538x432+413+137) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-27 18:16:21.161 INF Info: "Инструкция - Цвет рисунка #68ff22"
+2023-04-27 18:17:07.514 INF Info: "Инструкция - Рисунок на изделии C:/Users/user/Documents/TailorCode/img/0.jpg"
+2023-04-27 18:17:07.969 INF Debug: Программа прекратила работу

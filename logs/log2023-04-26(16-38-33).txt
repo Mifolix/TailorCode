@@ -1,0 +1,18 @@
+2023-04-26 16:38:33.894 INF Debug: Программа запущена
+2023-04-26 16:39:24.938 INF Debug: Ввод инструкции Начало технологии
+2023-04-26 16:39:26.064 INF Debug: Ввод инструкции Сезон одежды
+2023-04-26 16:39:28.816 INF Info: "Инструкция - Сезон одежды Лето"
+2023-04-26 16:39:34.641 INF Debug: Ввод инструкции Вид одежды
+2023-04-26 16:39:35.816 INF Info: "Инструкция - Вид одежды Шорты"
+2023-04-26 16:39:36.648 INF Debug: Ввод инструкции Тип фасона вида одежды 
+2023-04-26 16:39:37.784 INF Info: "Инструкция - Тип фасона вида одежды Бермуды"
+2023-04-26 16:39:39.640 INF Debug: Ввод инструкции Вид материала
+2023-04-26 16:39:41.153 INF Info: "Инструкция - Материал Лен"
+2023-04-26 16:40:00.786 INF Debug: Ввод инструкции Выбрать основной цвет
+2023-04-26 16:40:03.547 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-26 16:40:10.277 INF Info: "Инструкция - Основной цвет #000000"
+2023-04-26 16:40:12.681 INF Debug: Ввод инструкции Выбрать дополнительный цвет
+2023-04-26 16:40:14.200 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-26 16:40:15.004 INF Info: "Инструкция - Дополнительный цвет #000000"
+2023-04-26 16:40:23.897 INF Debug: Ввод инструкции Указать количество
+2023-04-26 16:44:29.762 INF Debug: Программа прекратила работу

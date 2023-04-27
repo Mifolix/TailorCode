@@ -1,0 +1,38 @@
+2023-04-19 17:41:35.137 INF Debug: Программа запущена
+2023-04-19 17:41:38.308 INF Debug: Ввод инструкции Начало инструкций
+2023-04-19 17:41:39.738 INF Debug: Ввод инструкции Вид одежды
+2023-04-19 17:41:40.882 INF Debug: Ввод инструкции Выбрать дополнительный цвет
+2023-04-19 17:41:41.738 INF Debug: Ввод инструкции Выбрать рисунок
+2023-04-19 17:41:42.210 INF Debug: Ввод инструкции Указать количество
+2023-04-19 17:41:44.399 INF Info: "Инструкция - Рисунок: C:/Users/user/Documents/TailorCode/img/2.jpg"
+2023-04-19 17:41:46.922 INF Debug: Ввод инструкции Выбрать основной цвет
+2023-04-19 17:41:47.362 INF Debug: Ввод инструкции Вид материала
+2023-04-19 17:41:49.138 INF Info: "Инструкция - Вид одежды: Шапка"
+2023-04-19 17:41:49.861 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-19 17:41:51.277 INF Info: "Инструкция - Дополнительный цвет: #b6ff79"
+2023-04-19 17:41:52.186 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-19 17:41:53.493 INF Info: "Инструкция - Основной цвет: #a9ffd9"
+2023-04-19 17:41:55.298 INF Info: "Количество: 11"
+2023-04-19 17:41:55.530 INF Info: "Количество: 111"
+2023-04-19 17:41:59.483 INF Debug: Ввод инструкции Процесс разрезания деталей
+2023-04-19 17:42:00.771 INF Debug: Ввод инструкции Процесс пошива одежды
+2023-04-19 17:42:01.779 INF Debug: Ввод инструкции Печать рисунков
+2023-04-19 17:42:02.603 INF Debug: Ввод инструкции Проверка качества
+2023-04-19 17:42:04.652 INF Debug: Ввод инструкции Упаковка готовых изделий
+2023-04-19 17:42:05.291 INF Debug: Ввод инструкции Конец инструкций
+2023-04-19 17:42:14.654 INF Debug: Исполнение функции Удалить всё
+2023-04-19 17:42:14.654 INF Info: Поле с инструкциями отчищено
+2023-04-19 17:42:41.547 INF Debug: Ввод инструкции Начало инструкций
+2023-04-19 17:42:41.969 INF Debug: Ввод инструкции Вид одежды
+2023-04-19 17:42:43.259 INF Info: "Инструкция - Вид одежды: Шапка"
+2023-04-19 17:42:43.922 INF Debug: Ввод инструкции Вид материала
+2023-04-19 17:42:45.105 INF Info: "Инструкция - Материал: Акрил"
+2023-04-19 17:42:46.121 INF Debug: Ввод инструкции Выбрать дополнительный цвет
+2023-04-19 17:42:47.274 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-19 17:42:49.350 INF Info: "Инструкция - Дополнительный цвет: #a3ff4c"
+2023-04-19 17:42:50.457 INF Debug: Ввод инструкции Выбрать основной цвет
+2023-04-19 17:42:51.242 WRN default: setGeometry: Unable to set geometry 120x30+421+167 (frame: 136x69+413+136) on QWidgetWindow/"QColorDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 522x393+421+167 (frame: 538x432+413+136) margins: 8, 31, 8, 8 minimum size: 522x393 maximum size: 522x393 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=538,432 maxtrack=538,432)
+2023-04-19 17:42:52.636 INF Info: "Инструкция - Основной цвет: #1391ff"
+2023-04-19 17:42:53.345 INF Debug: Ввод инструкции Выбрать рисунок
+2023-04-19 17:42:56.398 INF Info: "Инструкция - Рисунок: C:/Users/user/Documents/TailorCode/img/0.jpg"
+2023-04-19 17:48:12.809 INF Debug: Программа прекратила работу
